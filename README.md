@@ -1,5 +1,3 @@
-# Tomato-Leaf-Disease-Classification-CNN-Optimization
-I have prepare a scene and model and I have differentiate four different optimization algorithm using the CNN model as the base architecture.
 # 🍅 Tomato Leaf Disease Classification using CNN and Optimization Algorithms
 
 This repository presents a deep learning-based approach to classify tomato leaf diseases using a custom Convolutional Neural Network (CNN) model and four bio-inspired optimization algorithms to improve performance:
